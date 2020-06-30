@@ -3,7 +3,7 @@ Bifurcation Diagram - The Logistic Map, interactive and written in P5JS
 
 ![Logistic Map](https://raw.githubusercontent.com/johnnyawesome/LogisticMap/master/LogisticMapSlider/DemoImages/LogisticMapSlider.jpg)
 
-##Description
+## Description
 
 Chaos! Deterministic chaos! 
 
