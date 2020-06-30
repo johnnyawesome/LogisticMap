@@ -7,7 +7,7 @@ A Bifurcation Diagram - The Logistic Map to be specific: Interactive and written
 
 Chaos! Deterministic chaos! 
 
-The [Logistic Map](https://en.wikipedia.org/wiki/Logistic_map), which is a Bifurcation Diagram, I wrote in P5JS.
+The [Logistic Map](https://en.wikipedia.org/wiki/Logistic_map), which is a Bifurcation Diagram, written in P5JS.
 
 Adjust the starting-values of "r" with an interactive slider!
 
