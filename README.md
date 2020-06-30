@@ -1,7 +1,7 @@
 # LogisticMap
 A Bifurcation Diagram - The Logistic Map to be specific: Interactive and written in P5JS
 
-![Logistic Map](https://raw.githubusercontent.com/johnnyawesome/LogisticMap/master/LogisticMapSlider/DemoImages/LogisticMapSlider.jpg)
+![Logistic Map](https://raw.githubusercontent.com/johnnyawesome/LogisticMap/master/LogisticMapSlider/DemoImages/LogisticMapSlider1.jpg)
 
 ## Description
 
