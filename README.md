@@ -18,7 +18,7 @@ The diagram bifurcates several times, before it ends in chaos! But... there are 
 [I also wrote a blogpost about this little project that explains things in depth.](https://breaksome.tech/bifurcation-diagram:-coding-a-logistic-map-in-p5js/)
 
 
-##Links
+## Links
  
 The  [Mandelbrot Setp](https://github.com/johnnyawesome/Mandelbrot) very is closely related to the Mandelbrot set. Check out [this Project](https://github.com/johnnyawesome/Mandelbrot)
 for the code, and  [this blogpost](https://breaksome.tech/coding-the-mandelbrot-set-in-p5js/) to learn more about it.
